@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# Ignore virtual environment directories
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
